@@ -2,6 +2,8 @@
 
 Everybody makes a fizzbuzz program. This is mine.
 
+To learn more about fizzbuzz, click [HERE](https://en.wikipedia.org/wiki/Fizz_buzz)
+
 ## Usage
 ```
 git clone https://github.com/jamrizzi/fizzbuzz

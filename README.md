@@ -1,6 +1,6 @@
 # fizzbuzz
 
-Everybody has a fizzbuzz repo. This is mine.
+Everybody makes a fizzbuzz program. This is mine.
 
 ## Usage
 ```

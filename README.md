@@ -2,6 +2,8 @@
 
 Everybody makes a fizzbuzz program. This is mine.
 
+![](assets/fizzbuzz.png)
+
 To learn more about fizzbuzz, click [HERE](https://en.wikipedia.org/wiki/Fizz_buzz)
 
 ## Usage
